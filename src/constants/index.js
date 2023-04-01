@@ -1,0 +1,1 @@
+export const logo =  'https://i.pinimg.com/736x/be/17/73/be177348c37decd74ccc3f586c9f7fd8--jam-zayn-malik.jpg'
